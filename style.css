@@ -1,0 +1,28 @@
+/* Ini adalah file CSS untuk mengatur tampilan */
+
+/* Mengatur style body (seluruh halaman) */
+body {
+    font-family: Arial, sans-serif; /* Mengubah jenis font */
+    background-color: #f0f0f0; /* Memberi warna latar belakang abu-abu muda */
+    color: #333; /* Mengubah warna teks utama */
+    margin: 40px; /* Memberi jarak di sekitar konten */
+    text-align: center; /* Membuat teks di tengah */
+}
+
+/* Mengatur style header (h1) */
+h1 {
+    color: #007bff; /* Memberi warna biru pada judul */
+    border-bottom: 2px solid #007bff; /* Memberi garis bawah */
+    padding-bottom: 10px;
+}
+
+/* Mengatur style paragraf (p) */
+p {
+    font-size: 18px; /* Mengubah ukuran font paragraf */
+    line-height: 1.6; /* Mengatur jarak antar baris */
+}
+
+/* Memberi efek hover (saat kursor di atas) pada paragraf */
+p:hover {
+    color: #ff5733; /* Warna teks berubah menjadi oranye saat di-hover */
+}
